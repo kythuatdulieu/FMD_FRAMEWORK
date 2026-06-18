@@ -1,9 +1,9 @@
-# 📘 Fabric Metadata‑Driven Framework (FMD)
+# 📘 Fabric Metadata‑Driven Framework (FMD) - KyThuatDuLieu Edition
 ### *A Microsoft Fabric Framework for Metadata‑Driven Data Pipelines*
 
-The **Fabric Metadata‑Driven Framework (FMD)** is a powerful and extensible **Microsoft Fabric framework** designed to automate, orchestrate, and standardize **metadata‑driven data pipelines**. Built for lakehouse‑first architectures, FMD provides a configurable and reusable approach to ingestion, transformation, governance, and automation across Microsoft Fabric.
+**Lưu ý:** Đây là phiên bản fork (tùy chỉnh) của [FMD Framework gốc](https://github.com/edkreuk/FMD_FRAMEWORK), được duy trì và phát triển bởi team **Kỹ Thuật Dữ Liệu**. Framework này là nền tảng cốt lõi để tự động hóa, điều phối và chuẩn hóa các luồng dữ liệu (metadata-driven data pipelines) trên hệ sinh thái Microsoft Fabric.
 
-[![License](https://img.shields.io/badge/License-MIT-green.svg)]((https://github.com/edkreuk/FMD_FRAMEWORK/blob/main/LICENSE))
+[![License](https://img.shields.io/badge/License-MIT-green.svg)]((https://github.com/kythuatdulieu/FMD_FRAMEWORK/blob/main/LICENSE))
 
 
 ## 🚀 Why the FMD Framework?
