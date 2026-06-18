@@ -3,6 +3,8 @@
 
 **Lưu ý:** Đây là phiên bản fork (tùy chỉnh) của [FMD Framework gốc](https://github.com/edkreuk/FMD_FRAMEWORK), được duy trì và phát triển bởi team **Kỹ Thuật Dữ Liệu**. Framework này là nền tảng cốt lõi để tự động hóa, điều phối và chuẩn hóa các luồng dữ liệu (metadata-driven data pipelines) trên hệ sinh thái Microsoft Fabric.
 
+> 📖 **Đọc bài viết phân tích kiến trúc chi tiết bằng Tiếng Việt tại:** [Sổ Tay Kỹ Thuật Dữ Liệu](https://kythuatdulieu.github.io/projects/e2e/fabric-metadata-framework/)
+
 [![License](https://img.shields.io/badge/License-MIT-green.svg)]((https://github.com/kythuatdulieu/FMD_FRAMEWORK/blob/main/LICENSE))
 
 
